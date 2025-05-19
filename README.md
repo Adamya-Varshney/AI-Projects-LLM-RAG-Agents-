@@ -10,8 +10,8 @@ This repository showcases a curated collection of **hands-on projects** combinin
 |----------|-------------|
 | `function-calling-with-the-gemini-api.ipynb` | How to use Gemini’s function calling for tool augmentation |
 | `prompting.ipynb` | Prompt engineering techniques across zero-, few-, and chain-of-thought scenarios |
-| `day-2-document-nfcorpus-q-a-with-rag.ipynb` | Document QA with RAG using NF-Corpus |
-| `day-2-embeddings-and-similarity-scores.ipynb` | Embedding generation + cosine similarity scoring |
+| `document-nfcorpus-q-a-with-rag.ipynb` | Document QA with RAG using NF-Corpus |
+| `embeddings-and-similarity-scores.ipynb` | Embedding generation + cosine similarity scoring |
 | `vector-embedding-applications-openai.ipynb` | OpenAI embeddings applied to semantic search |
 | `classifying-embeddings-with-keras.ipynb` | Classify documents using learned embeddings in Keras |
 | `building-an-agent-with-langgraph.ipynb` | Step-by-step: Build a LangGraph-powered LLM agent |
